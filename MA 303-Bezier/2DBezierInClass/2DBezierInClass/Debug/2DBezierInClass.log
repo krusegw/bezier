@@ -1,0 +1,6 @@
+﻿  Lab22Bezier2D.cpp
+C:\Users\kruse\Desktop\MA 303-Bezier\2DBezierInClass\2DBezierInClass\Lab22Bezier2D.cpp(46,22): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\kruse\Desktop\MA 303-Bezier\2DBezierInClass\2DBezierInClass\Lab22Bezier2D.cpp(47,33): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\kruse\Desktop\MA 303-Bezier\2DBezierInClass\2DBezierInClass\Lab22Bezier2D.cpp(59,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kruse\Desktop\MA 303-Bezier\2DBezierInClass\2DBezierInClass\Lab22Bezier2D.cpp(58,10): warning C4101: 'j': unreferenced local variable
+  2DBezierInClass.vcxproj -> C:\Users\kruse\Desktop\MA 303-Bezier\2DBezierInClass\Debug\2DBezierInClass.exe

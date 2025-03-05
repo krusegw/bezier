@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kruse\\Desktop\\MA 303-Bezier\\BezierTeapot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCA5D6F-0160-4577-A871-8261B83BB717}|BezierTeapot\\BezierTeapot.vcxproj|C:\\Users\\kruse\\Desktop\\MA 303-Bezier\\BezierTeapot\\BezierTeapot\\BezierTeapot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CCA5D6F-0160-4577-A871-8261B83BB717}|BezierTeapot\\BezierTeapot.vcxproj|solutionrelative:BezierTeapot\\BezierTeapot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BezierTeapot.cpp",
+              "DocumentMoniker": "C:\\Users\\kruse\\Desktop\\MA 303-Bezier\\BezierTeapot\\BezierTeapot\\BezierTeapot.cpp",
+              "RelativeDocumentMoniker": "BezierTeapot\\BezierTeapot.cpp",
+              "ToolTip": "C:\\Users\\kruse\\Desktop\\MA 303-Bezier\\BezierTeapot\\BezierTeapot\\BezierTeapot.cpp",
+              "RelativeToolTip": "BezierTeapot\\BezierTeapot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T15:28:51.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
